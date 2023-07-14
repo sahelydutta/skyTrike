@@ -1,1 +1,3 @@
 cd flappy-bird
+pip install pygame
+python main.py
